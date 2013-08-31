@@ -1,7 +1,5 @@
-manifiesto-del-programador
+Manifiesto del programador
 ==========================
-
-Texto publicado por Jesus Anaya via FB
 
 Hola, solo quiero escribir esto aquí:
 
