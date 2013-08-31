@@ -1,8 +1,6 @@
 Manifiesto del programador
 ==========================
 
-Hola, solo quiero escribir esto aquí:
-
 1) Soy programador, no Hacker, no se como conseguirles la contraseña del correo / facebook / twitter de sus novi@s / espos@s, y chantajearme con frases del tipo "Es que es de vida o muerte" o "no que muy chingon pues" (aclaro que al menos para esto soy un pendejo total) no obtendré la capacidad de hacerlo, simplemente no puedo.
 
 2) No soy técnico de PC's, no se como arreglarlas cuando se descomponen, y menos se que le pasa a su computadora cuando intentan explicármelo por chat o por teléfono, no tendré ni idea de por que no prende, en ocasiones podre hacer algo, en la mayoría de los casos no, no cuento con el equipo adecuado para probar que parte o partes se dañaron, no cuento con todas las versiones de windows (de hecho con ninguna) para reparar o formatear su computadora, así que no puedo ayudarlos con eso. NOTA: google es muy bueno para ayudarlos a encontrar drivers por internet, no me pregunten de donde bajarlos, por que no se.
